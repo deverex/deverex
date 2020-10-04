@@ -37,7 +37,7 @@ I am a full-stack Web and Mobile Developer who is exploring Cloud :cloud: while 
 
 ---
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=deverex&show_icons=true&hide_border=true)
+![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deverex&show_icons=true&hide_border=true)
 
 ---
 
