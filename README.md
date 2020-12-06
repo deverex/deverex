@@ -43,8 +43,10 @@ I am a full-stack Web and Mobile Developer who is exploring Cloud :cloud: while 
 
 ![Devesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=deverex&show_icons=true&hide_border=true)
 
----
 
+<img  alt="Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=deverex&show_icons=true&hide_border=true" />
+
+---
 
 Let's connect 👨‍💻 and forge the future together.😁✌
 
