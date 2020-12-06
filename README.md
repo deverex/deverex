@@ -46,8 +46,6 @@ I am a full-stack Web and Mobile Developer who is exploring Cloud :cloud: while 
 ---
 
 
----
-
 Let's connect 👨‍💻 and forge the future together.😁✌
 
 **Check the Repositories and don't forget to give a star.** 👇
