@@ -8,7 +8,7 @@ I am a full-stack Web and Mobile Developer who is exploring Cloud :cloud: while 
   
 💬 Ask me about Full Stack Development, Cloud, and any Tech-related stuff.
 
-### You can find in me in the web 🌍
+### You can find me on the web 🌍
 [<img align="left" alt="Souarvdey777" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="Souarvdey777 | Medium" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />][medium]
 [<img align="left" alt="Souarvdey777 | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
